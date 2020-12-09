@@ -1,0 +1,17 @@
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.deps.json
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.runtimeconfig.json
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.runtimeconfig.dev.json
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.dll
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.pdb
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.dll
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.pdb
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.csprojAssemblyReference.cache
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.csproj.CoreCompileInputs.cache
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.AssemblyInfoInputs.cache
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.AssemblyInfo.cs
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.csproj.CopyComplete
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.dll
+/Users/garrettbrown/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.pdb
